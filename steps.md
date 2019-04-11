@@ -45,4 +45,6 @@ pw : Q+J~5Y;UdxD=
 
 
 - Mettre en place les variables d'environnements
-- Pusher sur Github 
+- Pusher sur Github
+- Créer une Web App + Postgresql sur Azure
+- Enlever les dossiers liés à Virtualenv
